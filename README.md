@@ -2,7 +2,7 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+TODO - What is the problem? And where is the ?
 
 ## Description
 TODO - How have you solved the problem?
